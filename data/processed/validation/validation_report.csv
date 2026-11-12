@@ -1,0 +1,9 @@
+dataset,records,null_key_records,duplicate_key_records,status
+olist_customers_dataset.csv,99441,0,0,PASS
+olist_orders_dataset.csv,99441,0,0,PASS
+olist_order_items_dataset.csv,112650,0,0,PASS
+olist_order_payments_dataset.csv,103886,0,0,PASS
+olist_order_reviews_dataset.csv,99224,0,0,PASS
+olist_products_dataset.csv,32951,0,0,PASS
+olist_sellers_dataset.csv,3095,0,0,PASS
+product_category_name_translation.csv,71,0,0,PASS
